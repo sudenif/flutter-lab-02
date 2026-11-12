@@ -1,0 +1,4 @@
+Deleting build...                                                  127ms
+Deleting .dart_tool...                                              44ms
+Deleting ephemeral...                                                8ms
+Deleting .flutter-plugins-dependencies...                            8ms

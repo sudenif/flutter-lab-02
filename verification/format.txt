@@ -1,0 +1,25 @@
+Warning: Package resolution error when reading "analysis_options.yaml" file for "lib\app\app.dart":
+Failed to resolve package URI "package:flutter_lints/flutter.yaml" in include at "C:\Users\user\.cache\lab2025-lab02\analysis_options.yaml".
+Warning: Package resolution error when reading "analysis_options.yaml" file for "lib\app\extensions\extensions.dart":
+Failed to resolve package URI "package:flutter_lints/flutter.yaml" in include at "C:\Users\user\.cache\lab2025-lab02\analysis_options.yaml".
+Warning: Package resolution error when reading "analysis_options.yaml" file for "lib\app\features\features.dart":
+Failed to resolve package URI "package:flutter_lints/flutter.yaml" in include at "C:\Users\user\.cache\lab2025-lab02\analysis_options.yaml".
+Warning: Package resolution error when reading "analysis_options.yaml" file for "lib\app\features\home\home.dart":
+Failed to resolve package URI "package:flutter_lints/flutter.yaml" in include at "C:\Users\user\.cache\lab2025-lab02\analysis_options.yaml".
+Warning: Package resolution error when reading "analysis_options.yaml" file for "lib\app\router\router.dart":
+Failed to resolve package URI "package:flutter_lints/flutter.yaml" in include at "C:\Users\user\.cache\lab2025-lab02\analysis_options.yaml".
+Warning: Package resolution error when reading "analysis_options.yaml" file for "lib\app\theme\theme.dart":
+Failed to resolve package URI "package:flutter_lints/flutter.yaml" in include at "C:\Users\user\.cache\lab2025-lab02\analysis_options.yaml".
+Warning: Package resolution error when reading "analysis_options.yaml" file for "lib\app\widgets\app_error.dart":
+Failed to resolve package URI "package:flutter_lints/flutter.yaml" in include at "C:\Users\user\.cache\lab2025-lab02\analysis_options.yaml".
+Warning: Package resolution error when reading "analysis_options.yaml" file for "lib\bootstrap.dart":
+Failed to resolve package URI "package:flutter_lints/flutter.yaml" in include at "C:\Users\user\.cache\lab2025-lab02\analysis_options.yaml".
+Warning: Package resolution error when reading "analysis_options.yaml" file for "lib\data\models\content.dart":
+Failed to resolve package URI "package:flutter_lints/flutter.yaml" in include at "C:\Users\user\.cache\lab2025-lab02\analysis_options.yaml".
+Warning: Package resolution error when reading "analysis_options.yaml" file for "lib\di\di.dart":
+Failed to resolve package URI "package:flutter_lints/flutter.yaml" in include at "C:\Users\user\.cache\lab2025-lab02\analysis_options.yaml".
+Warning: Package resolution error when reading "analysis_options.yaml" file for "test\model_test.dart":
+Failed to resolve package URI "package:flutter_lints/flutter.yaml" in include at "C:\Users\user\.cache\lab2025-lab02\analysis_options.yaml".
+Warning: Package resolution error when reading "analysis_options.yaml" file for "integration_test\app_test.dart":
+Failed to resolve package URI "package:flutter_lints/flutter.yaml" in include at "C:\Users\user\.cache\lab2025-lab02\analysis_options.yaml".
+Formatted 24 files (0 changed) in 0.22 seconds.
